@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Blog%20Management%20System&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">🚀 Blog Management System 🚀</h1>
-
 <p align="center">
   <b>FastAPI Backend for Managing Blogs, Users, and Interactions</b>
 </p>
@@ -179,3 +177,4 @@ The goal of this project is to build a **production-like backend system** that d
 
 This is not just a CRUD project —
 it is a complete backend system designed to reflect real-world development practices.
+
