@@ -157,13 +157,4 @@ docker-compose up --build
 
 ---
 
-# 📸 Preview
 
-<div align="center">
-
-✨ Clean Backend Architecture + Interactive Frontend ✨
-
-</div>
-
-
----
